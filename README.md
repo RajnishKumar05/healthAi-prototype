@@ -20,7 +20,9 @@ HealthAI is an AI-driven healthcare tool designed to assist in disease diagnosis
 
 We utilize cutting-edge AI models such as **BioGPT for generative AI**, **CNN (Convolutional Neural Networks) for image-based disease identification**, and **BART for simplifying complex medical information** into easily understandable terms. Our approach also integrates **self-supervised learning** to enhance model performance.
 
-![HealthAI Frontend](image.png)
+
+![Screenshot_7-3-2025_221218_rajnishkumar05 github io](https://github.com/user-attachments/assets/431f5d9c-19a0-4ee9-90a8-edb90a641a3c)
+
 
 ## Features
 - 🔍 **Automated Disease Detection**: Analyze medical images and reports using CNN models.
@@ -42,6 +44,8 @@ We utilize cutting-edge AI models such as **BioGPT for generative AI**, **CNN (C
 | Database              | MongoDB / PostgreSQL    |
 | Cloud Deployment      | AWS / Azure             |
 
+![Screenshot 2025-03-07 221734](https://github.com/user-attachments/assets/5eecbb04-68b5-40a0-b3d6-b8eba2d77b76)
+
 ## How It Works
 1. **User Input**: The user submits medical images, reports, or symptoms.
 2. **AI Analysis**:
@@ -59,9 +63,9 @@ We utilize cutting-edge AI models such as **BioGPT for generative AI**, **CNN (C
 - **Next.js for Web Interface**: Ensures a responsive and dynamic user experience.
 
 ## Model Download Links
-- 📥 **BioGPT Model**: [Download Here](https://drive.google.com/your-bio-gpt-link)
-- 📥 **CNN Model**: [Download Here](https://drive.google.com/your-cnn-model-link)
-- 📥 **BART Model**: [Download Here](https://drive.google.com/your-bart-model-link)
+- 📥 **BioGPT Model**: [Download Here](https://drive.google.com/drive/folders/1bDTNyRVEAK8d8G06Vg7b3C50k0IRICvN?usp=sharing)
+- 📥 **CNN Model**: [Download Here](https://drive.google.com/file/d/1x4uqIoTGTqBWmd7FnKpt_P-Y2rvak2rq/view?usp=drive_link)
+  
 
 ## Future Development
 - 🚀 **Expand AI Model Capabilities**: Train models on larger datasets for improved accuracy.
