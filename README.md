@@ -41,6 +41,9 @@ We utilize cutting-edge AI models such as **BioGPT for generative AI**, **CNN (C
 | Database              | MongoDB / PostgreSQL    |
 | Cloud Deployment      | AWS / Azure             |
 
+![image](https://github.com/user-attachments/assets/e2032054-b085-4575-8c63-5c5054b08e7b)
+
+
 ## How It Works
 1. **User Input**: The user submits medical images, reports, or symptoms.
 2. **AI Analysis**:
@@ -58,8 +61,8 @@ We utilize cutting-edge AI models such as **BioGPT for generative AI**, **CNN (C
 - **Next.js for Web Interface**: Ensures a responsive and dynamic user experience.
 
 ## Model Download Links
-- **BioGPT Model**: [Download Here](https://drive.google.com/your-bio-gpt-link)
-- **CNN Model**: [Download Here](https://drive.google.com/your-cnn-model-link)
+- **BioGPT Model**: [Download Here](https://drive.google.com/drive/folders/1bDTNyRVEAK8d8G06Vg7b3C50k0IRICvN?usp=sharing)
+- **CNN Model**: [Download Here](https://drive.google.com/file/d/1x4uqIoTGTqBWmd7FnKpt_P-Y2rvak2rq/view?usp=drive_link)
 
 
 ## Future Development
